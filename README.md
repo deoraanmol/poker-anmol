@@ -1,17 +1,19 @@
 # Pre-requisites
-- Install [Node.js](https://nodejs.org/en/) ^version 14.x (I've used 14.17.6).
+- Install [Node.js](https://nodejs.org/en/) ^v14.x (I've used 18.11.0).
 - Run `npm install` to see the output of this project (assuming you have installed `npm` on your machine).
-- Run `npm test` to unit-test this project.
+- Run `npm test` to unit-test this project. I've used `jest` for unit testing the app.
 
 # Run the app
 - To run the app, simply execute - `npm run poker-hands`. Please refer to `package.json` for details.
 
 # Screenshots
 
-<todo>
-    
-    
-  
+Console results, when `poker-hands.txt` is the input file:
+
+<img width="493" alt="Screenshot 2023-03-05 at 11 24 29 PM" src="https://user-images.githubusercontent.com/26059018/222960350-3d02bce5-fe7f-4ee9-943b-1a08c2050acd.png">
+
+Unit test results:
+<img width="1791" alt="Screenshot 2023-03-05 at 11 24 09 PM" src="https://user-images.githubusercontent.com/26059018/222960358-b4a4dca3-b416-4260-a371-3492468a2991.png">
 
 # Code architecture
 
