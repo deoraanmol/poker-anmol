@@ -9,11 +9,13 @@
 # Screenshots
 
 <todo>
+    
+    
+  
 
 # Code architecture
 
-- This project is divided into the following files:
-
+### This project is divided into the following files
     .
     ├── src/index.ts                # This is the entry point of the project
     ├── src/index.js                # An automated transpiled js file (ignore it)
