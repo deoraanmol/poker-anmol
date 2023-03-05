@@ -1,10 +1,10 @@
 # Pre-requisites
 - Install [Node.js](https://nodejs.org/en/) ^v14.x (I've used 18.11.0).
 - Run `npm install` to see the output of this project (assuming you have installed `npm` on your machine).
-- Run `npm test` to unit-test this project. I've used `jest` for unit testing the app.
 
 # Run the app
 - To run the app, simply execute - `npm run poker-hands`. Please refer to `package.json` for details.
+- Run `npm test` to unit-test this project. I've used `jest` for unit testing the app.
 
 # Screenshots
 
